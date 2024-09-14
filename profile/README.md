@@ -18,7 +18,7 @@ Visit our website to learn more and stay updated:
 
 ## Contact Us
 We welcome feedback and collaboration! Reach out to us at:
-- Email: [contact us](mailto: projectdrgoodwill@gmail.com)
+- Email: [contact us](mailto:projectdrgoodwill@gmail.com)
 - Follow us on [Twitter](https://twitter.com/goodwill)
 
 ## Contributing
